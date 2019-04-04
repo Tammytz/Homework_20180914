@@ -1,0 +1,21 @@
+#1
+
+print("煎饼"+"果子")
+
+
+#2
+
+print("{}{}!".format("煎饼","果子"))
+
+#3 4
+print("{}{}{}!".format("我每天吃","2","个包子"))
+
+#5
+print("{}{:.3f}{}!".format("我每天吃",2.56387,"个包子"))
+
+#6
+name=input("你叫什么名字？")
+quest=input("你多高？")
+color=input("你喜欢吃什么？")
+
+print("{}".format("name,quest,color"))
